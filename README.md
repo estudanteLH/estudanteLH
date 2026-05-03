@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 I'm Luiz Henrique</h1>
 
-<!--
-**estudanteLH/estudanteLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Computer Science student (1st semester) passionate about technology and development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+- 💻 Computer Science student (1st semester)  
+- 📚 Currently learning JavaScript, Python and web development  
+- 🎯 Looking for an internship opportunity in technology  
+- 🚀 Focused on improving my skills and building projects  
+- 🤝 Open to learning and collaborating on new ideas  
+
+---
+
+### 🛠️ Technologies I’m learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python" />
+</p>
+
+---
+
+### 📈 Goals
+
+- Become a Full Stack Developer  
+- Gain real-world experience through internships  
+- Build projects that solve real problems  
+
+---
+
+### 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/luiz-henrique-901b24277/
+- 📧 Email: Luiz.sousa1505@gmail.com
