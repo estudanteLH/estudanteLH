@@ -34,5 +34,5 @@ Computer Science student (1st semester) passionate about technology and developm
 
 ### 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/luiz-henrique-901b24277/
+- 💼 LinkedIn: https://www.linkedin.com/in/luizhtech1/
 - 📧 Email: Luiz.sousa1505@gmail.com
